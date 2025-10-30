@@ -1,0 +1,7 @@
+{
+  "name": "Arabic-Indonesian Tutor",
+  "description": "An interactive application to learn Arabic through live conversation with an AI tutor. Practice speaking in Indonesian, get instant translations and corrections, and listen to responses in Arabic. Includes a module for basic daily phrases.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
